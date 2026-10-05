@@ -40,7 +40,7 @@ project(Supply_Chain_Mgmt)/<br>
 
 ## Dashboard Preview
 
-![Project Image](./visuals/hr-employee-attrition.png) <br>
+![Project Image](visuals/hr_employee_attrition.png) <br>
 
 ## Contributing
 
