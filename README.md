@@ -10,7 +10,7 @@ The Key Performance Indicators (KPIs) used in the analysis are enlisted in the d
 
 ## Project Structure
 
-project(Supply_Chain_Mgmt)/<br>
+project  <br>
 ├── README.md # Documentation <br>
 ├── datasets/ # raw and cleaned data sources <br>
 ├── visuals/ # exported screenshots of dashboards <br>
